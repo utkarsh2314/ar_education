@@ -1,0 +1,8 @@
+.git/objects/pack/pack-02a227e88239e9ff121318e8ba2e59ed3afe64e5.pack filter=lfs diff=lfs merge=lfs -text
+My[[:space:]]project[[:space:]](3)/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+My[[:space:]]project[[:space:]](3)/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostlin/lld filter=lfs diff=lfs merge=lfs -text
+My[[:space:]]project[[:space:]](3)/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+My[[:space:]]project[[:space:]](3)/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
+[[:space:]]My[[:space:]]project[[:space:]](3)/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+My[[:space:]]project[[:space:]](3)/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/libburst-llvm-11.dylib filter=lfs diff=lfs merge=lfs -text
